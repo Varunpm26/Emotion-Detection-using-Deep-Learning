@@ -18,7 +18,4 @@ The combination of VGG16, SGD, a bit of data augmentation, and Label Smoothing y
 
 ![](https://i.ibb.co/92nQjFC/W-B-Chart-2-14-2020-7-22-52-PM.png)
 
-Experimentation report available here: https://app.wandb.ai/sayakpaul/emotion-detection
-
-I happily welcome any feedback :)
 
